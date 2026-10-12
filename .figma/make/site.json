@@ -1,0 +1,10 @@
+{
+  "description": "MealBudget helps students and budget-conscious individuals plan meals and manage grocery costs, ensuring they stay within their food budget.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
